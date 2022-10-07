@@ -2,11 +2,11 @@
 
 ---
 
-> “그래서 우리 스터디 언제함?”
+> “그래서 우리 스터디 언제함?” <br>
 > ”슬슬 스터디 시작해야하지 않나?”
 
 허구한날 맨날 모여서 스터디에 대한 고민만 하다가 드디어 만들어버린
-지식탐구 및 면접을 위한 스터디
+지식탐구 및 면접을 위한 CS스터디
 
 **Lil Yummy**입니다.
 
@@ -47,8 +47,8 @@
 
 | <a href="https://github.com/zlzlelzl">장지웅</a>                              | <a href="https://github.com/easydong02">신동희</a> | <a href="https://github.com/ryuhm48">류한민</a> | <a href="https://github.com/ingkoon">이인재</a> |
 | ----------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| <a href="https://github.com/zlzlelzl"><img src="img/bear.png" width=100/></a> | <a href="https://github.com/easydong02"> <img src="img/dong.jpg" width=100 height = 100/></a>| 사진                                            | <a href="https://github.com/ingkoon"><img src="img/clown.jpg" width=100 height = 100/></a> |
-| 디마장 | 엉덩희 | 류한민 | 광대 |
+| <a href="https://github.com/zlzlelzl"><img src="img/bear.png" width=100/></a> | <a href="https://github.com/easydong02"> <img src="img/dong.jpg" width=100 height = 100/></a>| <a href="https://github.com/ryuhm48"><img src="img/clown.jpg" width=100 height = 100/></a> | <a href="https://github.com/ingkoon"><img src="img/clown.jpg" width=100 height = 100/></a> |
+|   디마장   |   엉덩희   |   류한민   |   광대   |
 
 
 
