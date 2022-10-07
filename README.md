@@ -20,20 +20,14 @@
 -   인당 주 1회 한 `Chapter` 공부 및 리뷰
 -   발표 후 질의응답 수행
 -   챕터별 현황
+
 <details>
-    
-<summary>**10월 1주차**</summary>
-    
-    <div>
-    | 22.10.04 | 22.10.04 | 22.10.06 | 22.10.06 |
-    | ----------------- | --------- | -------- | -------- |
-    | Chapter 3 |
-    | 프로세스와 스레드 | Chapter 5 |
-    | 프로세스 동기화 | Chapter 4 |
-    | CPU 스케쥴링 | Chapter 6 |
-    | 교착 상태 |
-    | 신동희 | 이인재 | 장지웅 | 류한민 |
-    </div>
+    <summary>1주차 (07.25 ~ 07.31)</summary>
+
+| 22.10.04 | 22.10.04 | 22.10.06 | 22.10.06 |
+| :------: | :------: | :------: | :------: |
+| Chapter 3  프로세스와 스레드 | Chapter 5 프로세스 동기화 | Chapter 4  CPU 스케쥴링 | Chapter 6 교착 상태 |
+| 신동희 | 이인재 | 장지웅 | 류한민 |
     
 </details>
 
@@ -53,8 +47,10 @@
 
 | <a href="https://github.com/zlzlelzl">장지웅</a>                              | <a href="https://github.com/easydong02">신동희</a> | <a href="https://github.com/ryuhm48">류한민</a> | <a href="https://github.com/ingkoon">이인재</a> |
 | ----------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| <a href="https://github.com/zlzlelzl"><img src="img/bear.png" width=100/></a> | 사진                                               | 사진                                            | 사진                                            |
-| 디마장                                                                        |                                                    | 별명                                            | 별명                                            |
+| <a href="https://github.com/zlzlelzl"><img src="img/bear.png" width=100/></a> | <a href="https://github.com/easydong02"> <img src="img/dong.jpg" width=100 height = 100/></a>| 사진                                            | <a href="https://github.com/ingkoon"><img src="img/clown.jpg" width=100 height = 100/></a> |
+| 디마장 | 엉덩희 | 류한민 | 광대 |
+
+
 
 # 3. PR 규칙
 
