@@ -48,7 +48,7 @@
 | <a href="https://github.com/zlzlelzl">장지웅</a>                              | <a href="https://github.com/easydong02">신동희</a> | <a href="https://github.com/ryuhm48">류한민</a> | <a href="https://github.com/ingkoon">이인재</a> |
 | ----------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | <a href="https://github.com/zlzlelzl"><img src="img/bear.png" width=100/></a> | <a href="https://github.com/easydong02"> <img src="img/dong.jpg" width=100 height = 100/></a>| <a href="https://github.com/ryuhm48"><img src="img/hanmin.jpg" width=100 height = 100/></a> | <a href="https://github.com/ingkoon"><img src="img/injae.jpg" width=100 height = 100/></a> |
-|   디마장   |   엉덩희   |   류한민   |   광대   |
+|   디마장   |   엉덩희(당시 무면허)   |   류한민(27세, 무직)   |   광대   |
 
 
 
