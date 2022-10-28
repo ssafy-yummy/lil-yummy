@@ -118,7 +118,7 @@ log.info("파일 저장 fullPath = {}", fullPath);
 </html>
 ```
 
-![Untitled](spring(fileUp Down)/Untitled.png)
+![Untitled](spring(fileUpDown)/Untitled.png)
 
 여기서 상품명은 itemName이라는 이름으로 올라가고 파일은 file이라는 이름으로 올라간다.
 
@@ -149,7 +149,7 @@ itemName은 알다시피 request.getParameter()로 받을 수 있고 파일은 �
 
 Part타입으로 받는 것을 알 수 있고 로그로 어떻게 넘어오는지 확인해보자.
 
-![Untitled](spring(fileUp Down)/Untitled%201.png)
+![Untitled](spring(fileUpDown)/Untitled%201.png)
 
 request부터 보면 원래는 HttpServletRequest를 사용하는데 multipart의 전송방식으로 보내면 HttpServletRequest를 상속받은 StandardMultipartHtppServletRequest를 사용한다. 이것으로 바이너리 파일 등을 전송할 수 있다. 이 과정에서 멀티파트 리졸버가 멀티파트 요청일 때 서블릿 컨테이너가 전달하는 일반적인 servletrequest를 multipartservletrequest로 바꿔준다.
 
@@ -157,7 +157,7 @@ request부터 보면 원래는 HttpServletRequest를 사용하는데 multipart�
 
 그리고 itemName으로는 우리가 쓴 이름이 나오고 parts 부분에 전송한 파일들이 있다.
 
-![Untitled](spring(fileUp Down)/Untitled%202.png)
+![Untitled](spring(fileUpDown)/Untitled%202.png)
 
 그리고 또다른 로그를 보면 Content-Disposition이라는 항목별 헤더가 보이고 문자는 그냥 문자를 출력해주고 파일은 그 파일의 확장자까지 알려준다.
 
@@ -226,7 +226,7 @@ public class ServletUploadcontrollerV2 {
 - part.getInpuStream(): Part의 전송 데이터를 읽을 수 있다.
 - part.write(…): Part를 통해 전송된 데이터를 저장할 수 있다.
 
-![Untitled](spring(fileUp Down)/Untitled%203.png)
+![Untitled](spring(fileUpDown)/Untitled%203.png)
 
 각각 part를 보면 문자는 submittedFilename은 없다. 파일이 없으니 당연하다. 파일부분에서는 헤더가 2개가 있다. 기본 헤더인 content-disposition과 content-type이 그것이다 2번째 헤더는 확장자를 나타낸다.
 
@@ -276,7 +276,7 @@ file.getOriginalFilename(): 업로드 파일 명
 
 file.transferTo(…): 파일저장
 
-![Untitled](spring(fileUp Down)/Untitled%204.png)
+![Untitled](spring(fileUpDown)/Untitled%204.png)
 
 미리 지정해둔 path와 multipartfile의 객체에 대한 정보 로그도 잘 나온다.
 
